@@ -17,5 +17,5 @@ Meu nome é Beatriz e sou uma desenvolvedora apaixonada por criar soluções cri
 ## Objetivos
 
 Estou sempre em busca de novos desafios e oportunidades de aprendizado. Meu objetivo é aprimorar minhas habilidades, contribuir para projetos de código aberto e construir soluções inovadoras que beneficiem a comunidade de desenvolvedores.
-
+ 
 
