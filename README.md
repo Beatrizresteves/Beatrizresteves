@@ -2,7 +2,7 @@
 
 Meu nome é Beatriz e sou uma desenvolvedora apaixonada por criar soluções criativas e eficazes através do código.
 
-## Habilidades
+## Habilidades 
 
 - Linguagens: Python, JavaScript
 - Frameworks: Django, Vue, Node.js
