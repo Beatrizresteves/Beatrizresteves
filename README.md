@@ -8,11 +8,6 @@ Meu nome é Beatriz e sou uma desenvolvedora apaixonada por criar soluções cri
 - Frameworks: Django, Vue.js, Node.js 
 - Outras: HTML, CSS, Git
   
-<div align="center">
-  <a href="https://github.com/Beatrizresteves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Beatrizresteves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beatrizresteves&layout=compact&langs_count=7&theme=dracula"/>
- </div>
    
 ## Contato
 
