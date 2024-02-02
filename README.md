@@ -1,6 +1,6 @@
-# Olá! 👋 
+# Olá! 👋
 
-Meu nome é Beatriz e sou uma desenvolvedora apaixonada por criar soluções criativas e eficazes através do código.
+Meu nome é Beatriz, sou desenvolvedora e gosto de criar soluções criativas e eficazes através do código.
 
 ## Habilidades 
 
@@ -46,8 +46,3 @@ Meu nome é Beatriz e sou uma desenvolvedora apaixonada por criar soluções cri
 <br> <!-- Linha em branco para criar espaço -->
 [![Email](https://img.shields.io/badge/Email-%40-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:beatrizramalho.esteves@gmail.com)
 
-
-## Objetivos
-
-Estou sempre em busca de novos desafios e oportunidades de aprendizado. Meu objetivo é aprimorar minhas habilidades, contribuir para projetos de código aberto e construir soluções inovadoras que beneficiem a comunidade de desenvolvedores.
- 
