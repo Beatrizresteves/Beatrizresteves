@@ -43,6 +43,5 @@ Meu nome é Beatriz, sou desenvolvedora e gosto de criar soluções criativas e 
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/beatriz-ramalho-esteves-238580138/)
-<br> <!-- Linha em branco para criar espaço -->
 [![Email](https://img.shields.io/badge/Email-%40-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:beatrizramalho.esteves@gmail.com)
 
