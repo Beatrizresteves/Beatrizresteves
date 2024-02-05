@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Meu nome é Beatriz, sou desenvolvedora e gosto de criar soluções criativas e eficazes através do código.
+Meu nome é Beatriz, sou desenvolvedora e gosto de criar soluções criativas e eficazes.
 
 ## Habilidades 
 
