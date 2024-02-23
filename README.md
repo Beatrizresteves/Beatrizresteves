@@ -2,7 +2,7 @@
 
 Meu nome é Beatriz, sou desenvolvedora e gosto de criar soluções criativas e eficazes.
  
-## Habilidades 
+## Habilidades   
 
 - 🪨 Back-end： 
  ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)
