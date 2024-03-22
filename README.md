@@ -5,7 +5,7 @@ Meu nome é Beatriz, sou desenvolvedora e gosto de criar soluções eficazes.
 ## Habilidades   
    
 - 🪨 Back-end：   
- ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)
+ ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python) 
  ![Django](https://img.shields.io/badge/-Django-yellow?style=flat-circle&logo=Django)
  ![API-REST](https://img.shields.io/badge/API-REST-ff1709?style=flat-circle&logo=django&logoColor=white&color=ff1709&labelColor=gray)
   
