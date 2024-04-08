@@ -27,7 +27,7 @@ Meu nome é Beatriz, sou desenvolvedora e gosto de criar soluções eficazes.
   ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)
   ![PyTest](https://img.shields.io/badge/-PyTest-blue?style=flat-circle&logo=PyTest)
 
-- ☁️ Cloud：
+- ☁️ Cloud： 
   ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-blue?&logo=DigitalOcean&logoColor=F90)
   ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-circle&logo=heroku&logoColor=white)
   
