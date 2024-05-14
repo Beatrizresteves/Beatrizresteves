@@ -16,7 +16,7 @@ Meu nome é Beatriz, sou desenvolvedora e gosto de criar soluções eficazes.
  ![VueJS](https://img.shields.io/badge/-VueJS-blue?style=flat-circle&logo=Vuetify)
  ![Vuetify](https://img.shields.io/badge/-Vuetify-blue?style=flat-circle&logo=Vuetify)
 
-- 🛠️ Tools：
+- 🛠️ Tools： 
   ![VS Code](https://img.shields.io/badge/vscode-gray.svg?logo=visualstudiocode)
   ![Git](https://img.shields.io/badge/Git-yellow?style=flat-circle&logo=git)
   ![Shell](https://img.shields.io/badge/Shell-red?style=flat-circle&logo=shell)
